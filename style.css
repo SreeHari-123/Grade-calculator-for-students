@@ -1,0 +1,33 @@
+body{
+    background-color:cornsilk;
+}
+.black{
+    background-color: black;
+    color: white;
+    padding: 4%;
+}
+.cyan{
+    background-color:darkcyan;
+    color: white;
+    padding: 4%;
+}
+.content{
+    padding: 3%;
+}
+.mainhead{
+    position: relative;
+    left: 490px;
+}
+.head{
+    color:yellow;
+}
+.white{
+    background-color: whitesmoke;
+    text-align: center;
+}
+.btn{
+    color: white;
+}
+.fa-heart-o{
+    color: red;
+}
